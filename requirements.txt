@@ -1,0 +1,3 @@
+# Python dependencies for font conversion
+fonttools[woff]>=4.0.0
+brotli>=1.0.0
